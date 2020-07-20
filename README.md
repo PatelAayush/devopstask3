@@ -1,2 +1,2 @@
 # devopstask3
-Launching a webpage on top of Kubernetes 
+Launching a webpage on top of Kubernetes. 
